@@ -1,0 +1,45 @@
+* Journée BlueHats OSX 2021
+
+: Programme de la journée BlueHats lors du salon Open Source Experience 2021.
+
+Pour suivre la journée BlueHats : [[https://twitter.com/codegouvfr]]
+
+* Proposez une présentation !
+
+Ce dépôt sert à réunir les propositions de présentation pour la
+journée BlueHats du 9 novembre 2021 qui se tiendra au salon [[https://www.opensource-experience.com/][Open
+Source Experience]].
+
+/Pour faire une proposition, veuillez [[https://github.com/blue-hats/journee-bluehats-osx-2021/issues/new][ouvrir une issue]] ou envoyer un mail à [[mailto:bluehats@etalab.gouv.fr][bluehats@etalab.gouv.fr]]./
+
+* Journées BlueHats précédentes
+
+- 2019 : [[https://www.numerique.gouv.fr/agenda/journee-bluehats-dinum-paris-open-source-summit-2019/][Retour sur la journée BlueHats]] et [[https://forum.etalab.gouv.fr/t/journee-bluehats-lors-du-paris-open-source-summit-le-11-decembre-2019/4614][interventions détaillées]].
+- 2018 : [[https://www.numerique.gouv.fr/actualites/la-communaute-blue-hats-hackers-dinteret-general-est-lancee-rejoignez-nous/][Lancement de la communauté BlueHats]]
+
+* Présentations BlueHats
+
+Les présentations des journées BlueHats précédentes sont disponibles
+depuis [[https://speakerdeck.com/bluehats/][cette page web]].
+
+* Ateliers BlueHats
+
+Les ateliers BlueHats sont des moments d'échange ouvers entre agents
+publics sur l'utilisation de logiciels libres dans l'administration.
+
+Retrouvez [[https://github.com/blue-hats/ateliers/blob/main/ateliers.org][le programme des ateliers BlueHats]] et [[https://www.dailymotion.com/playlist/x767bq][les vidéos des
+ateliers BlueHats précédents]].
+
+* Gazette BlueHats
+
+La gazette #BlueHats est la contribution de la DINUM au mouvement
+BlueHats : elle propose tous les deux mois des informations sur le
+logiciel libre dans et pour l'administration.
+
+Vous pouvez [[https://disic.github.io/gazette-bluehats/][lire les numéros précédents]] et [[https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio][vous y inscrire]].
+
+* Licence
+
+Ce dépôt est une publication DINUM, 20 avenue de Ségur, 75019, publié
+sous [[file:LICENSE.txt][licence Ouverte 2.0]].  En contribuant à ce dépôt, vous acceptez
+les termes de cette licence.
