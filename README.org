@@ -13,7 +13,9 @@ Source Experience]].
 /Pour faire une proposition, veuillez [[https://github.com/blue-hats/journee-bluehats-osx-2021/issues/new][ouvrir une issue]] ou envoyer un mail à [[mailto:bluehats@etalab.gouv.fr][logiciels-libres@data.gouv.fr]]./
 
 - Teresa Gomez-Diaz (logiciel libre et recherche)
+- [[https://github.com/blue-hats/journee-bluehats-osx-2021/issues/1][Le projet Onyxia]]
 - Alexis Kauffmann
+- Table ronde en fin de matinée sur les catalogues DINUM: SILL et LABEL
 
 ** Journées BlueHats précédentes
 
