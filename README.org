@@ -2,8 +2,6 @@
 
 : Programme de la journée BlueHats lors du salon Open Source Experience 2021.
 
-Pour suivre la journée BlueHats : [[https://twitter.com/codegouvfr]]
-
 ** Proposez une présentation avant le 30 octobre !
 
 Ce dépôt sert à réunir les propositions de présentation pour la
@@ -12,7 +10,7 @@ Source Experience]].
 
 ** Propositions en cours
 
-/Pour faire une proposition, veuillez [[https://github.com/blue-hats/journee-bluehats-osx-2021/issues/new][ouvrir une issue]] ou envoyer un mail à [[mailto:bluehats@etalab.gouv.fr][bluehats@etalab.gouv.fr]]./
+/Pour faire une proposition, veuillez [[https://github.com/blue-hats/journee-bluehats-osx-2021/issues/new][ouvrir une issue]] ou envoyer un mail à [[mailto:bluehats@etalab.gouv.fr][logiciels-libres@data.gouv.fr]]./
 
 - Teresa Gomez-Diaz (logiciel libre et recherche)
 - Alexis Kauffmann
