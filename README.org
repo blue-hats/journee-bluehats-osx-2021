@@ -17,6 +17,7 @@ Source Experience]].
 - Alexis Kauffmann
 - Présentation de Démarches simplifiées (DINUM)
 - Table ronde en fin de matinée sur les catalogues DINUM: SILL et LABEL
+- Déploiement et intégration de [[https://sill.etalab.gouv.fr/fr/software?id=124][RocketChat]] à l'université de Lorraine
 
 ** Journées BlueHats précédentes
 
