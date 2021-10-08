@@ -19,6 +19,7 @@ Source Experience]].
 - L'instance Démarches simplifiées de l'Adullact
 - Table ronde en fin de matinée sur les catalogues DINUM: SILL et LABEL
 - Déploiement et intégration de [[https://sill.etalab.gouv.fr/fr/software?id=124][RocketChat]] à l'université de Lorraine
+- Utilisation du logiciel libre [[https://sill.etalab.gouv.fr/fr/software?id=77][LemonLDAP::NG]] pour les SSO de la Gendarmerie et la Police Nationale
 
 ** Journées BlueHats précédentes
 
