@@ -13,13 +13,13 @@ Source Experience]].
 /Pour faire une proposition, veuillez [[https://github.com/blue-hats/journee-bluehats-osx-2021/issues/new][ouvrir une issue]] ou envoyer un mail à [[mailto:bluehats@etalab.gouv.fr][logiciels-libres@data.gouv.fr]]./
 
 - Teresa Gomez-Diaz (logiciel libre et recherche)
-- [[https://github.com/blue-hats/journee-bluehats-osx-2021/issues/1][Présentation du projet Onyxia]]
-- Alexis Kauffmann
-- Présentation de Démarches simplifiées par la DINUM
-- L'instance Démarches simplifiées de l'Adullact
+- INSEE : [[https://github.com/blue-hats/journee-bluehats-osx-2021/issues/1][Présentation du projet Onyxia]]
+- MENJS : Logiciels et ressources éducatives libres, Alexis Kauffmann
+- DINUM : Présentation de [[https://sill.etalab.gouv.fr/fr/software?id=205][Démarches simplifiées]]
+- Adullact : L'instance [[https://sill.etalab.gouv.fr/fr/software?id=205][Démarches simplifiées]]
+- Université de Lorraine : déploiement et intégration de [[https://sill.etalab.gouv.fr/fr/software?id=124][RocketChat]]
+- Gendarmerie et la Police Nationale : utilisation du logiciel libre [[https://sill.etalab.gouv.fr/fr/software?id=77][LemonLDAP::NG]] pour les SSO
 - Table ronde en fin de matinée sur les catalogues DINUM: SILL et LABEL
-- Déploiement et intégration de [[https://sill.etalab.gouv.fr/fr/software?id=124][RocketChat]] à l'université de Lorraine
-- Utilisation du logiciel libre [[https://sill.etalab.gouv.fr/fr/software?id=77][LemonLDAP::NG]] pour les SSO de la Gendarmerie et la Police Nationale
 
 ** Journées BlueHats précédentes
 
