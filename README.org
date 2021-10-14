@@ -12,7 +12,7 @@ Source Experience]].
 
 /Pour faire une proposition, veuillez [[https://github.com/blue-hats/journee-bluehats-osx-2021/issues/new][ouvrir une issue]] ou envoyer un mail à [[mailto:bluehats@etalab.gouv.fr][logiciels-libres@data.gouv.fr]]./
 
-- Teresa Gomez-Diaz (logiciel libre et recherche)
+- Teresa Gomez-Diaz : [[file:details/plume.org][Le projet PLUME]] et les services rendus à la Communauté de la recherche
 - INSEE : [[https://github.com/blue-hats/journee-bluehats-osx-2021/issues/1][Présentation du projet Onyxia]]
 - MENJS : Logiciels et ressources éducatives libres, Alexis Kauffmann
 - DINUM : Présentation de [[https://sill.etalab.gouv.fr/fr/software?id=205][Démarches simplifiées]]

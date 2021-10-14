@@ -1,0 +1,22 @@
+Les objectifs du Projet PLUME (2006-2013) ont été :
+
+- mutualiser les compétences sur les logiciels (et valoriser ces compétences),
+- promouvoir les développements internes,
+- animer une communauté autour du logiciel,
+- promouvoir l'usage des logiciels libres et la contribution à leur élaboration.
+
+L'objectif de cette présentation est d'observer les services rendus
+par PLUME à la Communauté scientifique, et, plus globalement, à la
+Communauté de l'Enseignement Supérieur et de la Recherche (ESR), sur
+la mutualisation de compétences et sur la promotion des développements
+ESR, en particulier des logiciels libres qui y sont produits.
+
+Ces observations montreront l'importance des interfaces de recherche
+proposées par la plateforme de PLUME, ce qui nous aidera à analyser
+les services qui y étaient proposés.
+
+Plus d'information sur :
+
+- la plateforme du projet : http://www.projet-plume.org/
+- la présentation "PLUME et les logiciels de recherche", Séminaire Cocin (mars 2013): http://igm.univ-mlv.fr/~teresa/logicielsLIGM/documents/Seminaires/2013marsParisCocin.pdf
+- l'article "Le Projet PLUME et le paysage actuel des logiciels de la recherche dans la science ouverte" (février 2019) https://hal-cnrs.archives-ouvertes.fr/hal-02069359
