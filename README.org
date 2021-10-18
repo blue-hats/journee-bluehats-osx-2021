@@ -20,6 +20,7 @@ Source Experience]].
 - Université de Lorraine : déploiement et intégration de [[https://sill.etalab.gouv.fr/fr/software?id=124][RocketChat]]
 - Gendarmerie et la Police Nationale : utilisation du logiciel libre [[https://sill.etalab.gouv.fr/fr/software?id=77][LemonLDAP::NG]] pour les SSO
 - Table ronde en fin de matinée sur les catalogues DINUM: SILL et LABEL
+- Health Data Hub: Présentation de la démarche open source, Lorien Benda
 
 ** Journées BlueHats précédentes
 
