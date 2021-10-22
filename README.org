@@ -22,6 +22,7 @@ Source Experience]].
 - Table ronde en fin de matinée sur les catalogues DINUM: SILL et LABEL
 - Health Data Hub: Présentation de la démarche open source, Lorien Benda
 - J.-C. Helary: Utiliser OmegaT pour préparer les traducteurs à la résilience
+- AMUE: Le logiciel libre à l'Agence de Mutualisation des Universités et établissements
 
 ** Journées BlueHats précédentes
 
