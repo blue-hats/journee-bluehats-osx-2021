@@ -24,7 +24,7 @@ Source Experience]].
 - J.-C. Helary: Utiliser OmegaT pour préparer les traducteurs à la résilience
 - AMUE: Le logiciel libre à l'Agence de Mutualisation des Universités et établissements
 - Présentation d'Esup-Pod ([[https://www.esup-portail.org/][ESUP-Portail]])
-- Présentation de la coopérative "multi", coopérative pour le numérique libre d'intérêt général.
+- Présentation de la coopérative "multi", pour le numérique libre d'intérêt général.
 
 ** Journées BlueHats précédentes
 
