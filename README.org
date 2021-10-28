@@ -2,29 +2,51 @@
 
 : Programme de la journée BlueHats lors du salon Open Source Experience 2021.
 
-** Proposez une présentation avant le 30 octobre !
+** Proposez une présentation avant le 3 octobre !
 
 Ce dépôt sert à réunir les propositions de présentation pour la
 journée BlueHats du 9 novembre 2021 qui se tiendra au salon [[https://www.opensource-experience.com/][Open
 Source Experience]].
 
-** Propositions en cours
+*Pour faire une proposition, veuillez écrire à [[mailto:bluehats@etalab.gouv.fr][logiciels-libres@data.gouv.fr]].*
 
-/Pour faire une proposition, veuillez [[https://github.com/blue-hats/journee-bluehats-osx-2021/issues/new][ouvrir une issue]] ou envoyer un mail à [[mailto:bluehats@etalab.gouv.fr][logiciels-libres@data.gouv.fr]]./
+** Matinée (toujours en cours)
 
-- Teresa Gomez-Diaz : [[file:details/plume.org][Le projet PLUME]] et les services rendus à la Communauté de la recherche
-- INSEE : [[https://github.com/blue-hats/journee-bluehats-osx-2021/issues/1][Présentation du projet Onyxia]]
-- MENJS : Logiciels et ressources éducatives libres, Alexis Kauffmann
-- DINUM : Présentation de [[https://sill.etalab.gouv.fr/fr/software?id=205][Démarches simplifiées]]
-- Adullact : L'instance [[https://sill.etalab.gouv.fr/fr/software?id=205][Démarches simplifiées]]
-- Université de Lorraine : déploiement et intégration de [[https://sill.etalab.gouv.fr/fr/software?id=124][RocketChat]]
-- Gendarmerie et la Police Nationale : utilisation du logiciel libre [[https://sill.etalab.gouv.fr/fr/software?id=77][LemonLDAP::NG]] pour les SSO
-- Table ronde en fin de matinée sur les catalogues DINUM: SILL et LABEL
-- Health Data Hub: Présentation de la démarche open source, Lorien Benda
-- J.-C. Helary: Utiliser OmegaT pour préparer les traducteurs à la résilience
-- AMUE: Le logiciel libre à l'Agence de Mutualisation des Universités et établissements
-- Présentation d'Esup-Pod ([[https://www.esup-portail.org/][ESUP-Portail]])
-- Présentation de la coopérative "multi", pour le numérique libre d'intérêt général.
+- *9h-9h30* : /Café de bienvenue et installation/
+
+- *9h30-10h30* : /Présentations courtes du matin/
+
+  - Déploiement et intégration de [[https://sill.etalab.gouv.fr/fr/software?id=124][RocketChat]] à l'Université de Lorraine : Benjamin Seclier
+  - La démarche [[https://www.health-data-hub.fr/open-source][open source]] du Health Data Hub, Lorien Benda
+  - Présentation d'[[https://sill.etalab.gouv.fr/fr/software?id=210][Esup-Pod]] par Nicolas Can (en visio)
+  - [[file:details/plume.org][Le projet PLUME]] et les services rendus à la Communauté de la recherche, Teresa Gomez-Diaz
+
+- *10h30-11h* : /Pause café/
+
+- *11h-12h* : Table ronde sur les catalogues publiés par la DINUM
+  - [[https://catalogue.numerique.gouv.fr/][Le catalogue GouvTech]] de la mission LABEL (Sabine Guillaume)
+  - Le [[https://sill.etalab.gouv.fr/fr/software][Socle interministériel de logiciels libres]] (Bastien Guerry)
+
+- *12h-13h30* : /Temps libre/
+
+- *13h30-14h45* : /Premières présentations courtes de l'après-midi/
+  - Utiliser [[https://omegat.org/][OmegaT]] pour préparer les traducteurs à la résilience, Jean-Christophe Helary
+  - Présentation de la plateforme [[https://github.com/InseeFrLab/onyxia][Onyxia]]
+  - Logiciels et ressources éducatives libres, Alexis Kauffmann
+  - Utilisation du logiciel libre [[https://sill.etalab.gouv.fr/fr/software?id=77][LemonLDAP::NG]] pour les SSO, Jeremie Fabre (Gendarmerie nationale)
+
+- *14h45-15h* : /Pause/
+
+- *15h-16h15* : /Deuxièmes présentations courtes de l'après-midi/
+
+  - Le logiciel libre à l'Agence de Mutualisation des Universités et établissements, David Rongeat
+  - Présentation de la coopérative "multi", pour le numérique libre d'intérêt général.
+  - [[https://sill.etalab.gouv.fr/fr/software?id=205][Démarches simplifiées]] par la [[https://www.numerique.gouv.fr/][DINUM]] Philippe Vrignaud
+  - Démarches simplifiées par l'Adullact, Pascal kuczynski
+
+- *16h15-16h30* : /Pause/
+
+- *16h30-17h30* : Discussion ouverte
 
 ** Journées BlueHats précédentes
 
