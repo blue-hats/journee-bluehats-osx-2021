@@ -56,6 +56,11 @@ pour les intervenants.*
 - 2019 : [[https://www.numerique.gouv.fr/agenda/journee-bluehats-dinum-paris-open-source-summit-2019/][Retour sur la journée BlueHats]] et [[https://forum.etalab.gouv.fr/t/journee-bluehats-lors-du-paris-open-source-summit-le-11-decembre-2019/4614][interventions détaillées]].
 - 2018 : [[https://www.numerique.gouv.fr/actualites/la-communaute-blue-hats-hackers-dinteret-general-est-lancee-rejoignez-nous/][Lancement de la communauté BlueHats]]
 
+** Sélection d'interventions OSX 2021
+
+[[file:a-voir.org][Cette page]] liste quelques interventions directement ou indirectement
+liées au secteur public.
+
 ** Présentations BlueHats
 
 Les présentations des journées BlueHats précédentes sont disponibles
