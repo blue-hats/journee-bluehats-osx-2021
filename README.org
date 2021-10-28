@@ -8,7 +8,10 @@ Ce dépôt sert à réunir les propositions de présentation pour la
 journée BlueHats du 9 novembre 2021 qui se tiendra au salon [[https://www.opensource-experience.com/][Open
 Source Experience]].
 
-*Pour faire une proposition, veuillez écrire à [[mailto:bluehats@etalab.gouv.fr][logiciels-libres@data.gouv.fr]].*
+/Pour faire une proposition, veuillez écrire à [[mailto:bluehats@etalab.gouv.fr][logiciels-libres@data.gouv.fr]]./
+
+*Attention, l'inscription au salon est obligatoire et gratuite, même
+pour les intervenants.*
 
 ** Salle 223 M : le programme (en cours de finalisation)
 
