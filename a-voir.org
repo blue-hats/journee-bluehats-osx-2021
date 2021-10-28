@@ -4,7 +4,7 @@ particulièrement intéresser les agents publics.
 ** Interventions directement liées au secteur public
 
 - 09 novembre 2021 09:00 - 18:00 : (/Temps Fort/) - Salle 223M Journée
-  Bluehats, organisée par la Dinum/Etalab.
+  *Bluehats*, organisée par la Dinum/Etalab.
 
 - 10 novembre 2021 - 09:30 - 09:50 : (/Talk/) - Salle 224/225 - Vitam, une
   solution libre d’archivage électronique portée par l’Etat mais
