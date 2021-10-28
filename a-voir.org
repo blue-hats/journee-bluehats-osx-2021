@@ -1,0 +1,95 @@
+Nous proposons ici une sélection d'interventions qui peuvent plus
+particulièrement intéresser les agents publics.
+
+** Interventions directement liées au secteur public
+
+- 09 novembre 2021 09:00 - 18:00 : (/Temps Fort/) - Salle 223M Journée
+  Bluehats, organisée par la Dinum/Etalab.
+
+- 10 novembre 2021 - 09:30 - 09:50 : (/Talk/) - Salle 224/225 - Vitam, une
+  solution libre d’archivage électronique portée par l’Etat mais
+  accessible par tous.  Avec *Alice GRIPPON* (Directrice de la diffusion
+  et des partenariats) Programme Vitam.
+
+- 10 novembre 2021 - 10:50 - 11:10 : (/Talk/) - Salle 202/203 - Un outils
+  d’audit pour l’accessibilité Open Sourcé par l’État.
+
+- 10 novembre 2021 - 11:30 - 11:50 : (/Talk/) - Salle 241 -
+  FranceArchives, les archives françaises sur une infrastructure du
+  21ème siècle.
+
+- 10 novembre 2021 - 13:30 - 13:50 : (/Talk/) - Salle 202/203 - Logiciels
+  libres/Open source dans le ESR, Science Ouverte, Évaluation de la
+  recherche.  Avec *Teresa GOMEZ-DIAZ* (Ingénieure de recherche) CNRS.
+
+- 10 novembre 2021 - 13:50 - 14:10 : (/Talk/) - Salle 202/203 - Health
+  Data Hub et science ouverte.  Avec *Emmanuel BACRY* (Scientific
+  director) et *Lorien BENDA* (Cheffe de projet open source) Health Data
+  Hub.
+
+- 10 novembre 2021 - 15:30 - 16:30 : (/Plénière/) - Salle Maillot - L’Open
+  Source, « contributeur » essentiel au GreenIT.  Avec entre autres
+  *Richard HANNA* - chargé de mission interministérielle Green Tech -
+  Dinum.
+
+- 10 novembre 2021 - 16:50 - 17:35 : (/Table Ronde/) - Salle 224/225 -
+  Diversité & Open Source.  Avec entre autres *Constance DE
+  QUATREBARBES* - Data Ingénieure - Entrepreneur d'Intérêt Général.
+
+** Autres interventions
+
+- 09 novembre 2021 12:20 - 12:40 : (/Talk/) - Salle 202/203 LibreOffice :
+  Améliorer la soutenabilité du projet
+
+- 09 novembre 2021 14:00 - 14:20 : (/Talk/) - Salle 202/203 - R pour la
+  science des données dans l’enseignement supérieur et la recherche
+
+- 09 novembre 2021 - 14:00 - 14:45 : (/Table Ronde/) - Salle 242B - Inria
+  Academy, une formation au meilleur niveau DEEP-TECH (intervention
+  sponsorisée)
+
+- 09 novembre 2021 - 14:00 - 15:30 : (/Plénière/) - Salle Maillot -
+  Souveraineté numérique : l’Europe prend son destin en main !
+
+- 09 novembre 2021 - 15:00 - 15:45 : (/Table Ronde/) - Salle 242A - Les
+  OSPO comme catalyseurs d’une bonne gouvernance open source
+
+- 09 novembre 2021 - 16:00 - 16:45 : (/Talk/) - Salle 242A - TOSIT :
+  Comment de grands groupes collaborent autour de l’Open Source.
+
+- 09 novembre 2021 - 17:00 - 17:20 : (/Talk/) - Salle 243 - Panorama des
+  outils nocode / low-code, alternatives à AirTable
+
+- 09 novembre 2021 - 17:00 - 18:00 - Temps Fort - Salle 224/225 -
+  Remise des labels Territoire Numérique Libre 2021
+
+- 10 novembre 2021 - 09:50 - 10:10 : (/Talk/) - Salle 202/203 -
+  Observatoire de l’accessibilité.
+
+- 10 novembre 2021 - 10:30 - 11:15 : (/Table Ronde/) - Salle 243 - La
+  méthode des Market Readiness Levels d’OW2. Un outil pour les
+  décideurs IT.
+
+- 10 novembre 2021 - 10:30 - 10:50 : (/Talk/) - Salle 224/225 - Pour une
+  approche ouverte, mutualisée et outillée de la conformité Open
+  Source – projet Hermine
+
+- 10 novembre 2021 - 11:30 - 12:15 : (/Table Ronde/) - Salle 202/203 -
+  L’Open Source, un atout pour le numérique responsable (NR)
+
+- 10 novembre 2021 - 13:30 - 14:15 : (/Table Ronde/) - Salle 243 - Quelle
+  est la valeur de l’open source ? Étude de l’UE sur l’impact de
+  l’open source : résultats et recommandations.
+
+- 10 novembre 2021 - 14:50 - 15:10 : (/Talk/) : Salle 202/203.  Publier
+  ses résultats de recherche avec une fondation open source.
+
+- 10 novembre 2021 - 14:50 - 15:10 : (/Talk/) - Salle 241 - Utiliser
+  l’open source pour construire un cloud souverain pour l’Europe.
+
+- 10 novembre 2021 - 15:30 - 16:15 : (/Table Ronde/) - Salle 202/203 -
+  Table ronde : F/OSS et la souveraineté numérique dans l’UE.
+
+- 10 novembre 2021 - 17:10 - 17:30 : (/Talk/) - Salle 242B - GAFAM or not
+  GAFAM dans les collectivités.
+
