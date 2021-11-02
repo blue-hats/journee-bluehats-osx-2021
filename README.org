@@ -35,6 +35,7 @@ pour les intervenants.*
 - *13h30-14h45* : /Premières présentations courtes de l'après-midi/
   - Utiliser [[https://omegat.org/][OmegaT]] pour préparer les traducteurs à la résilience, Jean-Christophe Helary
   - Présentation de la plateforme [[https://github.com/InseeFrLab/onyxia][Onyxia]]
+  - [[https://sill.etalab.gouv.fr/fr/software?id=227][Keycloakify]]: Des pages de connexions belles, fonctionnelles et bien intégrées, par Joseph Garrone
   - Logiciels et ressources éducatives libres, Alexis Kauffmann
   - Utilisation du logiciel libre [[https://sill.etalab.gouv.fr/fr/software?id=77][LemonLDAP::NG]] pour les SSO, Jeremie Fabre (Gendarmerie nationale)
 
