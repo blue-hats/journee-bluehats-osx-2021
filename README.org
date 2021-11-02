@@ -38,7 +38,7 @@ pour les intervenants.*
   - [[https://sill.etalab.gouv.fr/fr/software?id=227][Keycloakify]]: Des pages de connexions belles, fonctionnelles et bien intégrées, par Joseph Garrone (INSEE)
   - Logiciels et ressources éducatives libres, Alexis Kauffmann
   - Utilisation du logiciel libre [[https://sill.etalab.gouv.fr/fr/software?id=77][LemonLDAP::NG]] pour les SSO, Jeremie Fabre (Gendarmerie nationale)
-  - Présentation de la coopérative "multi", pour le numérique libre d'intérêt général.
+  - [[https://hackmd.io/@jailbreak/multi][Multi]] : une nouvelle coopérative pour le numérique libre d'intérêt général, [[https://twitter.com/jparis_py][Julien Paris]] et [[https://twitter.com/JohanRicher][Johan Richer]]
 
 - *14h45-15h* : /Pause/
 
