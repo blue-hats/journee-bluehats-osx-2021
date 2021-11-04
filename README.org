@@ -45,7 +45,7 @@ pour les intervenants.*
 - *15h-16h15* : /Deuxièmes présentations courtes de l'après-midi/
 
   - Open source, numérique et environnement, par la mission Green Tech, Dinum, Richard Hanna
-  - Framadate : améliorer design et accessibilité, par la Dinum, Thomas Bonamy et Erwan le Gall
+  - [[https://framadate.org/][Framadate] : améliorer design et accessibilité, par la [[https://numerique.gouv.fr/][DINUM]/[[https://design.numerique.gouv.fr/][pôle Design des services numériques]], Thomas Bonamy et Erwan le Gall
   - [[https://sill.etalab.gouv.fr/fr/software?id=205][Démarches simplifiées]] par la [[https://www.numerique.gouv.fr/][DINUM]] Philippe Vrignaud
   - Le logiciel libre à l'Agence de Mutualisation des Universités et établissements, David Rongeat
   - Démarches simplifiées par l'Adullact, Pascal kuczynski
