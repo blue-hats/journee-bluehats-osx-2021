@@ -52,9 +52,10 @@ pour les intervenants.*
 
 - *16h15-16h30* : /Pause/
 
-- *16h30-17h30* : Autres présentations et discussion ouverte
+- *16h30-17h30* : /Dernières présentations et discussion ouverte/
 
   - Présentation de la suite éditoriale Scenari, Sandrine Dewez (CNAM)
+  - Enseigner le numérique avec l'open source : pas si simple ! Jean-Yves Jeannas (Université de Lille)
 
 ** Journées BlueHats précédentes
 
