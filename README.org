@@ -27,8 +27,8 @@ pour les intervenants.*
 - *10h30-11h* : /Pause café/
 
 - *11h-12h* : Table ronde sur les catalogues publiés par la DINUM
-  - [[https://catalogue.numerique.gouv.fr/][Le catalogue GouvTech]] de la mission LABEL (Sabine Guillaume)
-  - Le [[https://sill.etalab.gouv.fr/fr/software][Socle interministériel de logiciels libres]] (Bastien Guerry)
+  - [[https://catalogue.numerique.gouv.fr/][Le catalogue GouvTech]] de la mission LABEL, Sabine Guillaume (DINUM)
+  - Le [[https://sill.etalab.gouv.fr/fr/software][Socle interministériel de logiciels libres]], Bastien Guerry (DINUM)
 
 - *12h-13h30* : /Temps libre/
 
@@ -52,7 +52,9 @@ pour les intervenants.*
 
 - *16h15-16h30* : /Pause/
 
-- *16h30-17h30* : Discussion ouverte
+- *16h30-17h30* : Autres présentations et discussion ouverte
+
+  - Présentation de la suite éditoriale Scenari, Sandrine Dewez (CNAM)
 
 ** Journées BlueHats précédentes
 
