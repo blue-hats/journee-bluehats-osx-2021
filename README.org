@@ -56,6 +56,7 @@ pour les intervenants.*
 
   - Présentation de la suite éditoriale Scenari, Sandrine Dewez (CNAM)
   - Enseigner le numérique avec l'open source : pas si simple ! Jean-Yves Jeannas (Université de Lille)
+  - À la découverte de la forge [[https://sourcehut.org/][SourceHut]], Bastien Guerry (Etalab)
 
 ** Journées BlueHats précédentes
 
