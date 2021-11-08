@@ -55,7 +55,6 @@ pour les intervenants.*
 - *16h30-17h30* : /Dernières présentations et discussion ouverte/
 
   - Présentation de la suite éditoriale [[https://scenari.software/fr/][Scenari]] et cas d'application dans l'enseignement supérieur, Sandrine Dewez (Le cnam)
-  - Enseigner le numérique avec l'open source : pas si simple ! (en visio) Jean-Yves Jeannas (Université de Lille)
   - À la découverte de la forge [[https://sourcehut.org/][SourceHut]], Bastien Guerry (Etalab)
 
 ** Journées BlueHats précédentes
